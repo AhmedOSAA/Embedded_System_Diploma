@@ -1,0 +1,45 @@
+
+main.o:
+00000003 C bss_var
+00000000 R const_var
+00000004 D g_var
+00000000 T main
+00000000 D R_ODR
+
+startup.o:
+         U _e_bss
+         U _E_data
+         U _E_text
+         U _s_bss
+         U _s_data
+         U _stack_top
+000000b0 W Bus_Fault
+000000b0 T Defoult_Handler
+000000b0 W H_Fault_Handler
+         U main
+000000b0 W MM_Fault_Handler
+000000b0 W NMI_Handler
+00000000 T Reset_Handler
+000000b0 W Usage_Fault_Handler
+00000000 D vectors
+
+LID_cortex_m3.elf:
+2000000c B _e_bss
+20000008 D _E_data
+08000184 T _E_text
+20000008 B _s_bss
+20000000 D _s_data
+2000100c B _stack_top
+20000008 B bss_var
+080000cc W Bus_Fault
+08000180 T const_var
+080000cc T Defoult_Handler
+20000004 D g_var
+080000cc W H_Fault_Handler
+080000d8 T main
+080000cc W MM_Fault_Handler
+080000cc W NMI_Handler
+20000000 D R_ODR
+0800001c T Reset_Handler
+080000cc W Usage_Fault_Handler
+08000000 T vectors

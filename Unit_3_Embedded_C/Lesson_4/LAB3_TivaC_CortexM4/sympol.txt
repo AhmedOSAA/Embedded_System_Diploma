@@ -1,0 +1,31 @@
+
+main.o:
+00000000 T main
+
+startup.o:
+         U _e_bss
+         U _E_data
+         U _E_text
+         U _s_bss
+         U _s_data
+00000000 D arr_p_fn_vectors
+000000b0 T Defoult_Handler
+000000b0 W H_Fault_Handler
+         U main
+000000b0 W NMI_Handler
+00000000 T Reset_Handler
+00000400 C Stack_top
+
+U3_LAB3_CortexM4.elf:
+20000400 B _e_bss
+20000000 T _E_data
+00000194 T _E_text
+20000000 B _s_bss
+20000000 T _s_data
+00000000 T arr_p_fn_vectors
+000000c0 T Defoult_Handler
+000000c0 W H_Fault_Handler
+000000cc T main
+000000c0 W NMI_Handler
+00000010 T Reset_Handler
+20000000 B Stack_top

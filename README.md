@@ -37,7 +37,7 @@
 
 ## Overall progress ![image](https://progress-bar.dev/0/?scale=3&title=Terms&suffix=&width=230&color=aa00ff)
 
-[![image]()](https://www.learn-in-depth.com/online-diploma/ahmedosamaa1211%40gmail.com)
+[![image](https://github.com/AhmedOSAA/Embedded_System_Diploma/blob/main/Midterm%20Certificate%207-5-2023.jpg)](https://www.learn-in-depth.com/online-diploma/ahmedosamaa1211%40gmail.com)
 
 ---
 

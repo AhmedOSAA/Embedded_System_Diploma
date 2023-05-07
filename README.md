@@ -35,7 +35,7 @@
 
 ---
 
-## Overall progress ![image](https://progress-bar.dev/0.5/?scale=3&title=Terms&suffix=&width=230&color=aa00ff)
+## Overall progress ![image](https://progress-bar.dev/0/?scale=3&title=Terms&suffix=&width=230&color=aa00ff)
 
 [![image]()](https://www.learn-in-depth.com/online-diploma/ahmedosamaa1211%40gmail.com)
 

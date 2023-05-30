@@ -5,18 +5,18 @@
 ---
 ## Contents
 
-### First Term ![image](https://progress-bar.dev/68/?title=IN_PROGRESS)
+### First Term ![image](https://progress-bar.dev/100/?title=Waiting_Result)
 
 - [Unit 1: Diploma Prerequisites](https://github.com/AhmedOSAA/Embedded_System_Diploma) ![image](https://progress-bar.dev/100/?title=No_Assignments&color=bababa)
 - [Unit 2: C Programming](Unit_2_C_Basics) ![image](https://progress-bar.dev/100/)
 - [Unit 3: Embedded C](Unit_3_Embedded_C) ![image](https://progress-bar.dev/100/)
-- [Unit 4: System Architect](Unit_4_System_Architect) ![image](https://progress-bar.dev/33/?title=IN_PROGRESS)
-- [Unit 5: First Term Projects] ![image](https://progress-bar.dev/0/)
+- [Unit 4: System Architect](Unit_4_System_Architect) ![image](https://progress-bar.dev/100/)
+- [Unit 5: First Term Projects](Unit_5_FirstTerm_Exams) ![image](https://progress-bar.dev/100/?title=Waiting_Result)
 
 ---
 ### Second Term ![image](https://progress-bar.dev/0/?title=Start_Soon&color=ff00ff)
 
-- [Unit 6: MCU Fundamentals] ![image](https://progress-bar.dev/0/)
+- [Unit 6: MCU Fundamentals] ![image](https://progress-bar.dev/0/?title=IN_PROGRESS)
 - [Unit 7: MCU Essential Peripherals] ![image](https://progress-bar.dev/0/)
 - [Unit 8: MCU Interfacing] ![image](https://progress-bar.dev/0/)
 - [Unit 9: MCU Timers/ADC] ![image](https://progress-bar.dev/0/)

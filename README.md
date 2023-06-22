@@ -14,10 +14,10 @@
 - [Unit 5: First Term Projects](Unit_5_FirstTerm_Exams) ![image](https://progress-bar.dev/100/?title=Waiting_Result)
 
 ---
-### Second Term ![image](https://progress-bar.dev/0/?title=Start_Soon&color=ff00ff)
+### Second Term ![image](https://progress-bar.dev/30/?title=IN_PROGRESS&color=ff00ff)
 
-- [Unit 6: MCU Fundamentals] ![image](https://progress-bar.dev/0/?title=IN_PROGRESS)
-- [Unit 7: MCU Essential Peripherals] ![image](https://progress-bar.dev/0/)
+- [Unit 6: MCU Fundamentals](Unit_6_Micro-Controller_Arch) ![image](https://progress-bar.dev/100/?title=IN_PROGRESS)
+- [Unit 7: MCU Essential Peripherals](https://github.com/AhmedOSAA/Embedded_System_Diploma/tree/main/Unit_7_Essential%20Peripherals) ![image](https://progress-bar.dev/75/?title=IN_PROGRESS)
 - [Unit 8: MCU Interfacing] ![image](https://progress-bar.dev/0/)
 - [Unit 9: MCU Timers/ADC] ![image](https://progress-bar.dev/0/)
 - [Unit 10: SW Testing/Validation] ![image](https://progress-bar.dev/0/)
@@ -35,7 +35,7 @@
 
 ---
 
-## Overall progress ![image](https://progress-bar.dev/0/?scale=3&title=Terms&suffix=&width=230&color=aa00ff)
+## Overall progress ![image](https://progress-bar.dev/1/?scale=3&title=Terms&suffix=&width=230&color=aa00ff)
 
 [![image](https://github.com/AhmedOSAA/Embedded_System_Diploma/blob/main/Midterm%20Certificate%207-5-2023.jpg)](https://www.learn-in-depth.com/online-diploma/ahmedosamaa1211%40gmail.com)
 

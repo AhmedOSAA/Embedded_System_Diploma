@@ -14,7 +14,7 @@
 - [Unit 5: First Term Projects](Unit_5_FirstTerm_Exams) ![image](https://progress-bar.dev/100/?title=Waiting_Result)
 
 ---
-### Second Term ![image](https://progress-bar.dev/30/?title=IN_PROGRESS&color=ff00ff)
+### Second Term ![image](https://progress-bar.dev/40/?title=IN_PROGRESS&color=ff00ff)
 
 - [Unit 6: MCU Fundamentals](Unit_6_Micro-Controller_Arch) ![image](https://progress-bar.dev/100/)
 - [Unit 7: MCU Essential Peripherals](https://github.com/AhmedOSAA/Embedded_System_Diploma/tree/main/Unit_7_Essential%20Peripherals) ![image](https://progress-bar.dev/100/)

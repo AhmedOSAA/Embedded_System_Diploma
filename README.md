@@ -16,9 +16,9 @@
 ---
 ### Second Term ![image](https://progress-bar.dev/30/?title=IN_PROGRESS&color=ff00ff)
 
-- [Unit 6: MCU Fundamentals](Unit_6_Micro-Controller_Arch) ![image](https://progress-bar.dev/100/?title=IN_PROGRESS)
-- [Unit 7: MCU Essential Peripherals](https://github.com/AhmedOSAA/Embedded_System_Diploma/tree/main/Unit_7_Essential%20Peripherals) ![image](https://progress-bar.dev/75/?title=IN_PROGRESS)
-- [Unit 8: MCU Interfacing] ![image](https://progress-bar.dev/0/)
+- [Unit 6: MCU Fundamentals](Unit_6_Micro-Controller_Arch) ![image](https://progress-bar.dev/100/)
+- [Unit 7: MCU Essential Peripherals](https://github.com/AhmedOSAA/Embedded_System_Diploma/tree/main/Unit_7_Essential%20Peripherals) ![image](https://progress-bar.dev/100/)
+- [Unit 8: MCU Interfacing] ![image](https://progress-bar.dev/0/?title=IN_PROGRESS)
 - [Unit 9: MCU Timers/ADC] ![image](https://progress-bar.dev/0/)
 - [Unit 10: SW Testing/Validation] ![image](https://progress-bar.dev/0/)
 - [Unit 11: Apply on Embedded Systems Jobs] ![image](https://progress-bar.dev/0/?title=Exams&color=bababa)

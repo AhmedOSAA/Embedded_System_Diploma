@@ -18,7 +18,7 @@
 
 - [Unit 6: MCU Fundamentals](Unit_6_Micro-Controller_Arch) ![image](https://progress-bar.dev/100/)
 - [Unit 7: MCU Essential Peripherals](https://github.com/AhmedOSAA/Embedded_System_Diploma/tree/main/Unit_7_Essential%20Peripherals) ![image](https://progress-bar.dev/100/)
-- [Unit 8: MCU Interfacing] ![image](https://progress-bar.dev/0/?title=IN_PROGRESS)
+- [Unit 8: MCU Interfacing] ![image](https://progress-bar.dev/50/?title=IN_PROGRESS)
 - [Unit 9: MCU Timers/ADC] ![image](https://progress-bar.dev/0/)
 - [Unit 10: SW Testing/Validation] ![image](https://progress-bar.dev/0/)
 - [Unit 11: Apply on Embedded Systems Jobs] ![image](https://progress-bar.dev/0/?title=Exams&color=bababa)
@@ -37,7 +37,7 @@
 
 ## Overall progress ![image](https://progress-bar.dev/1/?scale=3&title=Terms&suffix=&width=230&color=aa00ff)
 
-[![image](https://github.com/AhmedOSAA/Embedded_System_Diploma/blob/main/Midterm%20Certificate%207-5-2023.jpg)](https://www.learn-in-depth.com/online-diploma/ahmedosamaa1211%40gmail.com)
+[![image](https://github.com/AhmedOSAA/Embedded_System_Diploma/blob/main/First%20term%20Certificate%205-6-2023.jpg)](https://www.learn-in-depth.com/online-diploma/ahmedosamaa1211%40gmail.com)
 
 ---
 
